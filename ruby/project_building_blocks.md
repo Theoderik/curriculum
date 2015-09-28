@@ -439,4 +439,5 @@ Next, make sure your method can handle multiple words:
 * [Adrian Manteza's solution](https://github.com/AdManteza/SubString/blob/master/SubString.rb)
 * [Simon Kraus' solution](https://github.com/simonkrausgit/the_odin_project/blob/master/ruby/building_blocks/substrings.rb)
 * [djhart's solution](https://github.com/djhart/ruby_project1/blob/master/substrings.rb)
+* [Theoderik Trajanson's solution](https://github.com/Theoderik/education/blob/master/SubstringSearch.rb)
 * Add your solution above this line!
